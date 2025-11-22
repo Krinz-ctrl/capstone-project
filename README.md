@@ -1,0 +1,2 @@
+# capstone-project
+Smart Inbox Cleaner is an AI-powered Gmail automation agent that classifies emails, deletes spam and promotions, auto-unsubscribes from newsletters, archives social emails, and keeps important messages safe. Powered by Gemini + Gmail API, it runs daily using Kaggle automation.
