@@ -6,6 +6,3 @@ Smart Inbox Cleaner is an AI-powered Gmail automation agent that classifies emai
 
 - **Kaggle Notebook:**  
   https://www.kaggle.com/code/devkansakar/gmail-inbox-cleaner
-
-- **GitHub Repository:**  
-  (Add your GitHub link here once created)
